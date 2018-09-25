@@ -1,3 +1,3 @@
-# irbg.py
+# Ir Monitor
 
-Irbg is the IrChain to automatics executing transfer(e.g) in background.
+An monitor to tracking IrChain account with automatics.
